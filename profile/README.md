@@ -1,4 +1,4 @@
-## Welcome to our Fantasy League 👋
+## Welcome to Fantasy League 👋
 
 ### What is FL.GG
 Fantasy League is an online trading platform where, the performance of LOL players on the ranked ladder is directly tied to an underlying security in the form of a trading card.
