@@ -11,3 +11,6 @@ Users have the opportunity to build their dream teams with the acquired cards, p
 
 ### Impact?
 The benefit of this project is that putting something at stake, other than league points, such as your online player rating, gives players a sense of importance and this will hopefully reduce trolling, inting, and tilting. (lower rank = lower rating = less demand).
+
+### High level Design
+https://docs.google.com/presentation/d/1OdMK7UHdFgo1B3auyRo20wwXJ6RrEqXrqabs_76mzvE/edit?usp=sharing
